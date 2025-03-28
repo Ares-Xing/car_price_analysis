@@ -1,4 +1,5 @@
-#Project Name: car_price_analysis
-1. This project is an exploratory analysis practice on a car price dataset.
-2. The analysis content includes the correlation between each variable, whether there is a linear relationship between features and the target value, and training an AI model to predict future prices.
-3. Related AI models include: Linear regression model, Polynomial regression model, Polynomial transformation, Pipeline...
+# Car price data analysis
+1. **Data source**: Coursera.  
+2. **Related techniques**: Data cleaning, data analysis, data visualization, AI model building, and model evaluation.  
+3. **Tools**: Jupyter Notebook, VS Code with Jupyter extensions, Python, Pandas, Seaborn, Scikit-learn, Anaconda.
+4. **Contents**: Exploratory data analysis, visualized key data, and identified correlations between features and the target variable.
